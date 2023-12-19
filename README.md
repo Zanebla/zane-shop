@@ -1,10 +1,8 @@
-## 项目简介
+## Project Introduction
 
-小兔鲜儿项目包含从首页浏览商品，商品详情，微信登录，加入购物车，提交订单，微信支付，订单管理等功能。
+Zane-Shop includes functions such as browsing products from the homepage, product details, WeChat login, adding to the shopping cart, submitting orders, WeChat payment, and order management.
 
-当前仓库为小兔鲜儿的**项目模板**。
-
-### 技术栈
+### Technology Stack
 
 - 前端框架：[uni-app](https://uniapp.dcloud.net.cn/) (Vue3 + TS + Setup)
 - 状态管理：[pinia](https://pinia.vuejs.org/zh/)
